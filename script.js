@@ -1,12 +1,10 @@
-var a=prompt("Enter UserName");
- var b=prompt("Enter password");
-  	if(a== "SP" && b=="SP")
+var a=prompt("What Is Your Name?");
+  	if(a== "Ammanabrolu")
   	{
-  	    window.location.href="start.html";
+  	    window.location.href="index.html";
   	}
   	else
   	{
-  		alert("invalid details");
-  		window.location.href="index.html";
+  		window.location.href="start.html";
   	}
   	
