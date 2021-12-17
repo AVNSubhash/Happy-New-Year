@@ -2,7 +2,7 @@ var a=prompt("Enter UserName");
  var b=prompt("Enter password");
   	if(a== "SP" && b=="SP")
   	{
-  	    window.location.href="https://www.google.com";
+  	    window.location.href="start.html";
   	}
   	else
   	{
